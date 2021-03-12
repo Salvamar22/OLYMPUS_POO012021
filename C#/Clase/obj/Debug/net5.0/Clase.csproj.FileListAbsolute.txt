@@ -1,0 +1,16 @@
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\bin\Debug\net5.0\Clase.exe
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\bin\Debug\net5.0\Clase.deps.json
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\bin\Debug\net5.0\Clase.runtimeconfig.json
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\bin\Debug\net5.0\Clase.runtimeconfig.dev.json
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\bin\Debug\net5.0\Clase.dll
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\bin\Debug\net5.0\ref\Clase.dll
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\bin\Debug\net5.0\Clase.pdb
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.AssemblyInfo.cs
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.dll
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\ref\Clase.dll
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.pdb
+C:\Users\salva\Desktop\Progra\C#\C#\Clase\obj\Debug\net5.0\Clase.genruntimeconfig.cache
