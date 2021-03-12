@@ -1,0 +1,16 @@
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\bin\Debug\net5.0\Lab01.exe
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\bin\Debug\net5.0\Lab01.deps.json
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.json
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.dev.json
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\bin\Debug\net5.0\Lab01.dll
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\bin\Debug\net5.0\ref\Lab01.dll
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\bin\Debug\net5.0\Lab01.pdb
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfo.cs
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.dll
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\ref\Lab01.dll
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.pdb
+C:\Users\salva\Desktop\Progra\Labo01\Lab01\obj\Debug\net5.0\Lab01.genruntimeconfig.cache
