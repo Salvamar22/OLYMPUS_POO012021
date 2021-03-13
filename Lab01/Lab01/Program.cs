@@ -14,11 +14,11 @@ namespace Lab01
             Console.WriteLine("Enter a value for b");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Subtracting {a} - {b} equals {LestNumbers(a,b)}");
+            Console.WriteLine($"Multiplying {a} * {b} equals {multiplyNumbers(a,b)}");
         }
-        public static int LestNumbers(int a, int b){
+        public static int multiplyNumbers(int a, int b){
 
-            return a - b;
+            return a * b;
         }
     }
 }
