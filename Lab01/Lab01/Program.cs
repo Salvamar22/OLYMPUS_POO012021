@@ -2,7 +2,6 @@
 
 namespace Lab01
 {
-    
     internal class Program
     {
         static void Main(string[] args)
@@ -15,9 +14,7 @@ namespace Lab01
             Console.WriteLine("Enter a value for b");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {LestNumbers(a,b)}");
-
-
+            Console.WriteLine($"Subtracting {a} - {b} equals {LestNumbers(a,b)}");
         }
         public static int LestNumbers(int a, int b){
 

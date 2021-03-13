@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salva\\Desktop\\Progra\\Repositorio\\Lab01\\Lab01\\Lab01.csproj": {}
+    "C:\\Users\\Usuario01\\Documents\\Cosas de MAM\\Laboratorio 1\\OLYMPUS_POO012021\\Lab01\\Lab01\\Lab01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salva\\Desktop\\Progra\\Repositorio\\Lab01\\Lab01\\Lab01.csproj": {
+    "C:\\Users\\Usuario01\\Documents\\Cosas de MAM\\Laboratorio 1\\OLYMPUS_POO012021\\Lab01\\Lab01\\Lab01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salva\\Desktop\\Progra\\Repositorio\\Lab01\\Lab01\\Lab01.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario01\\Documents\\Cosas de MAM\\Laboratorio 1\\OLYMPUS_POO012021\\Lab01\\Lab01\\Lab01.csproj",
         "projectName": "Lab01",
-        "projectPath": "C:\\Users\\salva\\Desktop\\Progra\\Repositorio\\Lab01\\Lab01\\Lab01.csproj",
-        "packagesPath": "C:\\Users\\salva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salva\\Desktop\\Progra\\Repositorio\\Lab01\\Lab01\\obj\\",
+        "projectPath": "C:\\Users\\Usuario01\\Documents\\Cosas de MAM\\Laboratorio 1\\OLYMPUS_POO012021\\Lab01\\Lab01\\Lab01.csproj",
+        "packagesPath": "C:\\Users\\Usuario01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario01\\Documents\\Cosas de MAM\\Laboratorio 1\\OLYMPUS_POO012021\\Lab01\\Lab01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\salva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuario01\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

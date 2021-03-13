@@ -14,3 +14,19 @@ C:\Users\salva\Desktop\Progra\Repositorio\Lab01\Lab01\obj\Debug\net5.0\Lab01.dll
 C:\Users\salva\Desktop\Progra\Repositorio\Lab01\Lab01\obj\Debug\net5.0\ref\Lab01.dll
 C:\Users\salva\Desktop\Progra\Repositorio\Lab01\Lab01\obj\Debug\net5.0\Lab01.pdb
 C:\Users\salva\Desktop\Progra\Repositorio\Lab01\Lab01\obj\Debug\net5.0\Lab01.genruntimeconfig.cache
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\bin\Debug\net5.0\Lab01.exe
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\bin\Debug\net5.0\Lab01.deps.json
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.json
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.dev.json
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\bin\Debug\net5.0\Lab01.dll
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\bin\Debug\net5.0\ref\Lab01.dll
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\bin\Debug\net5.0\Lab01.pdb
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.csprojAssemblyReference.cache
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfo.cs
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.dll
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\ref\Lab01.dll
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.pdb
+C:\Users\Usuario01\Documents\Cosas de MAM\Laboratorio 1\OLYMPUS_POO012021\Lab01\Lab01\obj\Debug\net5.0\Lab01.genruntimeconfig.cache
